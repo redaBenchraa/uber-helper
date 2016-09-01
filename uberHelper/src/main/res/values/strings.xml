@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="copy_access_token_to_clipboard">Copy Access Token to Clipboard</string>
+    <string name="clear_access_token">Clear Access Token</string>
+    <string name="user_cancels_message">User cancels login</string>
+    <string name="login_error_message">Error occured during login: %s</string>
+    <string name="custom_login_text">I want to sign in using my Uber app.</string>
+    <string name="authorization_code_message">Received an authorization code:\n %s</string>
+    <string name="greeting">Hello %s!</string>
+    <string name="refresh_estimates">Refresh Estimates</string>
+    <string name="deep_link">Deep Link into Uber App</string>
+    <string name="ride_request_widget">Ride Request Widget</string>
+    <string name="request_ride_text">Request ride</string>
+    <string name="request_ride_info_text">Get ride info</string>
+    <string name="request_cancel">Cancel Ride</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
