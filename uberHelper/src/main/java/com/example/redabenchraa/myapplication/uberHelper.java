@@ -39,7 +39,7 @@ import static com.uber.sdk.rides.client.utils.Preconditions.checkState;
 public class uberHelper {
     public Context context;
 
-    private static final String CLIENT_ID = "c79c4cpfEoWIxI9Qij5gvFSGn1AufM98"; //The app id, it can be found in uber dashboard
+    private static final String CLIENT_ID = "XXXX"; //The app id, it can be found in uber dashboard
     private static final String REDIRECT_URI = "app://com.example.redabenchraa.myapplication"; //The android app's URI, must be inserted in uber dashboard
     private static final String LOG_UBER_HELPER = "UBER_HELPER"; // For logging
 
